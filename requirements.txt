@@ -6,4 +6,5 @@ Pillow==4.2.1
 protobuf==3.3.0
 requests==2.14.2 # for downloading
 pandas==0.20.3
+Pillow==4.2.1
 # and opencv => needs to compiled
